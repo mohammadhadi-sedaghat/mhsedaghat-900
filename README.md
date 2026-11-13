@@ -2,7 +2,7 @@
 
 **Alexander von Humboldt Researcher @ Helmholtz Munich** (Helmholtz PioneerCampus), Munich, Germany
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadhadi-sedaghat-7873ba161/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=OZpPS4wAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadhadi-sedaghat-7873ba161/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=OZpPS4wAAAAJ) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammadhadi-Sedaghat)
 
 ## Research Interests
 
@@ -30,5 +30,5 @@
 | Nanoparticle diffusion in respiratory mucus influenced by mucociliary clearance: a review of mathematical modeling | J. Aerosol Med. Pulm. Drug Deliv. | 2023 |
 | A nonlinear viscoelastic model of mucociliary clearance | Rheologica Acta | 2021 |
 | Nonlinear simulation of mucociliary clearance: a three-dimensional study | J. Non-Newtonian Fluid Mech. | 2022 |
-
-Full publication list: [Google Scholar](https://scholar.google.com/citations?hl=en&user=OZpPS4wAAAAJ)
+ 
+Full publication list: [Google Scholar](https://scholar.google.com/citations?hl=en&user=OZpPS4wAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Mohammadhadi-Sedaghat)
